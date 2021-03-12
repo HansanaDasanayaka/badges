@@ -1,4 +1,7 @@
 # List of Badges, in Markdown
+
+~ Visit Here For More Baadges >> https://dev.to/envoy_/150-badges-for-github-pnk
+
 A list of badges, with their Markdown code, that can be included in a `README.md` file for a GitHub or Bitbucket project.
 
 > The same file for [reStructuredText](http://docutils.sourceforge.net/rst.html) code is available here: [README.rst](README.rst).
